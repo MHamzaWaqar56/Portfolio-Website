@@ -6,6 +6,9 @@ import ImageTwo from "../../Images/image2.jpg";
 import ImageThree from "../../Images/image3.jpg";
 import ImageFour from "../../Images/image4.png";
 import ImageFive from "../../Images/image5.jpg";
+import ImageSix from "../../Images/Calculator.jpg";
+import ImageSeven from "../../Images/Clock.jpg";
+import ImageEight from "../../Images/Truck.jpg";
 import "./Style.scss";
 import { Link } from "react-router-dom";
 
@@ -43,19 +46,19 @@ const portfolioData = [
   {
     id: 2,
     name: "Calculator",
-    image: ImageThree,
+    image: ImageSix,
     link: "https://github.com/MHamzaWaqar56/Calculator-",
   },
   {
     id: 3,
     name: "Trucking Assist",
-    image: ImageThree,
+    image: ImageEight,
     link: "https://github.com/MHamzaWaqar56/Trucking-Assist-App-Design",
   },
   {
     id: 3,
     name: "Analog Clock",
-    image: ImageThree,
+    image: ImageSeven,
     link: "https://github.com/MHamzaWaqar56/AnaLog-Clock",
   },
 ];

@@ -11,7 +11,7 @@ const Home = () => {
   };
 
   return (
-    <section id="home" className="home">
+    <div id="home" className="home">
       <div className="home__text_wrapper">
         <h1>
           Hello, I'm M Hamza Waqar
@@ -31,7 +31,7 @@ const Home = () => {
           <button onClick={handleHire}>Hire Me</button>
         </div>
       </Animate>
-    </section>
+    </div>
   );
 };
 
