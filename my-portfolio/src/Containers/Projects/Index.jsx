@@ -24,9 +24,9 @@ const portfolioData = [
   },
   {
     id: 2,
-    name: "Supplier Design",
+    name: "Clutter Words Game",
     image: ImageThree,
-    link: "",
+    link: "https://github.com/MHamzaWaqar56/Clutter-Word-Game-Website",
   },
   {
     id: 2,
@@ -36,9 +36,27 @@ const portfolioData = [
   },
   {
     id: 3,
-    name: "Shopping cart design",
+    name: "Portfolio Website",
     image: ImageFive,
-    link: "",
+    link: "https://github.com/MHamzaWaqar56/Portfolio-Website",
+  },
+  {
+    id: 2,
+    name: "Calculator",
+    image: ImageThree,
+    link: "https://github.com/MHamzaWaqar56/Calculator-",
+  },
+  {
+    id: 3,
+    name: "Trucking Assist",
+    image: ImageThree,
+    link: "https://github.com/MHamzaWaqar56/Trucking-Assist-App-Design",
+  },
+  {
+    id: 3,
+    name: "Analog Clock",
+    image: ImageThree,
+    link: "https://github.com/MHamzaWaqar56/AnaLog-Clock",
   },
 ];
 
