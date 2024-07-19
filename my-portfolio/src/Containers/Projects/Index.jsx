@@ -33,7 +33,7 @@ const portfolioData = [
   },
   {
     id: 2,
-    name: "Todo App (Authenticated)",
+    name: "Todo List App",
     image: ImageFour,
     link: "https://github.com/MHamzaWaqar56/Authentiacted-Todo-List-App-In-Mern-Stack-",
   },
