@@ -24,7 +24,7 @@ const PersonalDetails = [
     value: "hamzarajpoot3912@gmail.com",
   },
   {
-    label: "Phone  ",
+    label: "Whatsapp ",
     value: "03366776269",
   },
 ];
