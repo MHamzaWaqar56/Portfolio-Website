@@ -2,6 +2,7 @@ import React from "react";
 import "./Style.scss";
 import { useNavigate } from "react-router-dom";
 import { Animate } from "react-simple-animate";
+import About from "../About/Index";
 
 const Home = () => {
   const navigate = useNavigate();
